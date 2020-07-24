@@ -1,0 +1,27 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: black;
+  font-weight: bold;
+}
+
+.htmlreq{
+  text-align: center;
+  border-style: solid;
+  padding: 10px;
+}
+
+#rightimg{
+  margin: 35px;
+  width: 
+}
+
+#nametitle{
+  background-color: gray;
+}
